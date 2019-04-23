@@ -1,0 +1,11 @@
+C:\Users\TEJOY\source\repos\Organization\Organization\bin\Debug\Organization.exe.config
+C:\Users\TEJOY\source\repos\Organization\Organization\bin\Debug\Organization.exe
+C:\Users\TEJOY\source\repos\Organization\Organization\bin\Debug\Organization.pdb
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.Form1.resources
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.Properties.Resources.resources
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.csproj.GenerateResource.cache
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.exe
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.pdb
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.Feeds.resources
+C:\Users\TEJOY\source\repos\Organization\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
